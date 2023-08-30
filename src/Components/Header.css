@@ -1,0 +1,55 @@
+.header{
+    margin-left:0.3rem;
+    padding: 0.2rem 0;
+    align-items: center;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.headerLeft{
+    display: flex;
+    align-items: center;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.1rem;
+}
+
+@media screen and (max-width:480px) {
+    .headerLeft {
+        margin-left: -0.6rem;
+        margin-top: 0.4rem;
+    }
+    .headerLeft .header_icon{
+        height: 3rem;
+        width: 2.7rem;
+        cursor: pointer;
+    }
+    .headerLeft .header-content{
+        display: flex;
+    justify-content: space-evenly;
+        margin-top: -0.4rem;
+    }
+    .headerLeft .header-content a{
+        font-size: 1.2rem;
+    }
+}
+
+
+a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.6rem;
+    margin: 0 0.8rem 0 0.8rem;
+    cursor: pointer;
+    color: white;
+
+}
+a:hover{
+    color: red;
+}
+.header_icon{
+    height: 4.5rem;
+    width: 4.5rem;
+    cursor: pointer;
+}
