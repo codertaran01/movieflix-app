@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movieflix-app/static/css/main.77653566.css",
+    "main.js": "/movieflix-app/static/js/main.29d3cdc9.js",
+    "static/js/787.509a742e.chunk.js": "/movieflix-app/static/js/787.509a742e.chunk.js",
+    "static/media/Logo.jpg": "/movieflix-app/static/media/Logo.c5e51d09c866717e8da7.jpg",
+    "index.html": "/movieflix-app/index.html",
+    "main.77653566.css.map": "/movieflix-app/static/css/main.77653566.css.map",
+    "main.29d3cdc9.js.map": "/movieflix-app/static/js/main.29d3cdc9.js.map",
+    "787.509a742e.chunk.js.map": "/movieflix-app/static/js/787.509a742e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77653566.css",
+    "static/js/main.29d3cdc9.js"
+  ]
+}
